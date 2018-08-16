@@ -1,6 +1,6 @@
 ﻿namespace JwtWithoutIdentity2.Models
 {
-    internal class JsonWebToken
+    public class JsonWebToken
     {
         public JsonWebToken()
         {
