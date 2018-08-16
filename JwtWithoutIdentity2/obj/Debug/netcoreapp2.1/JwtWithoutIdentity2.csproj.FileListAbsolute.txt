@@ -12,3 +12,17 @@ c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\bin\Debug\ne
 c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.csprojAssemblyReference.cache
 c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.dll
 c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.pdb
+C:\Users\olegv\Documents\TokenAuthorization\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.csprojAssemblyReference.cache
+C:\Users\olegv\Documents\TokenAuthorization\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.csproj.CoreCompileInputs.cache
+C:\Users\olegv\Documents\TokenAuthorization\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.RazorAssemblyInfo.cache
+C:\Users\olegv\Documents\TokenAuthorization\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.RazorAssemblyInfo.cs
+C:\Users\olegv\Documents\TokenAuthorization\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.AssemblyInfoInputs.cache
+C:\Users\olegv\Documents\TokenAuthorization\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.AssemblyInfo.cs
+C:\Users\olegv\Documents\TokenAuthorization\JwtWithoutIdentity2\bin\Debug\netcoreapp2.1\JwtWithoutIdentity2.deps.json
+C:\Users\olegv\Documents\TokenAuthorization\JwtWithoutIdentity2\bin\Debug\netcoreapp2.1\JwtWithoutIdentity2.runtimeconfig.json
+C:\Users\olegv\Documents\TokenAuthorization\JwtWithoutIdentity2\bin\Debug\netcoreapp2.1\JwtWithoutIdentity2.runtimeconfig.dev.json
+C:\Users\olegv\Documents\TokenAuthorization\JwtWithoutIdentity2\bin\Debug\netcoreapp2.1\JwtWithoutIdentity2.dll
+C:\Users\olegv\Documents\TokenAuthorization\JwtWithoutIdentity2\bin\Debug\netcoreapp2.1\JwtWithoutIdentity2.pdb
+C:\Users\olegv\Documents\TokenAuthorization\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.RazorTargetAssemblyInfo.cache
+C:\Users\olegv\Documents\TokenAuthorization\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.dll
+C:\Users\olegv\Documents\TokenAuthorization\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.pdb

@@ -12224,11 +12224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\olegv\\source\\repos\\JwtWithoutIdentity2\\JwtWithoutIdentity2\\JwtWithoutIdentity2.csproj",
+      "projectUniqueName": "C:\\Users\\olegv\\Documents\\TokenAuthorization\\JwtWithoutIdentity2\\JwtWithoutIdentity2.csproj",
       "projectName": "JwtWithoutIdentity2",
-      "projectPath": "c:\\users\\olegv\\source\\repos\\JwtWithoutIdentity2\\JwtWithoutIdentity2\\JwtWithoutIdentity2.csproj",
+      "projectPath": "C:\\Users\\olegv\\Documents\\TokenAuthorization\\JwtWithoutIdentity2\\JwtWithoutIdentity2.csproj",
       "packagesPath": "C:\\Users\\olegv\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\olegv\\source\\repos\\JwtWithoutIdentity2\\JwtWithoutIdentity2\\obj\\",
+      "outputPath": "C:\\Users\\olegv\\Documents\\TokenAuthorization\\JwtWithoutIdentity2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
