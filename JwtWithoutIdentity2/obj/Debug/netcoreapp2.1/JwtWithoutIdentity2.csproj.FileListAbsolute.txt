@@ -1,0 +1,14 @@
+c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\bin\Debug\netcoreapp2.1\JwtWithoutIdentity2.deps.json
+c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\bin\Debug\netcoreapp2.1\JwtWithoutIdentity2.runtimeconfig.json
+c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\bin\Debug\netcoreapp2.1\JwtWithoutIdentity2.runtimeconfig.dev.json
+c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\bin\Debug\netcoreapp2.1\JwtWithoutIdentity2.dll
+c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.csproj.CoreCompileInputs.cache
+c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.RazorAssemblyInfo.cache
+c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.RazorAssemblyInfo.cs
+c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.AssemblyInfoInputs.cache
+c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.AssemblyInfo.cs
+c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.RazorTargetAssemblyInfo.cache
+c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\bin\Debug\netcoreapp2.1\JwtWithoutIdentity2.pdb
+c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.csprojAssemblyReference.cache
+c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.dll
+c:\users\olegv\source\repos\JwtWithoutIdentity2\JwtWithoutIdentity2\obj\Debug\netcoreapp2.1\JwtWithoutIdentity2.pdb
