@@ -1,0 +1,70 @@
+{
+	"info": {
+		"_postman_id": "d598c712-8577-411b-ae37-2fb0487c0f46",
+		"name": "Authorize",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Create Token",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"Username\":\"username\",\"Password\":\"password\"}"
+				},
+				"url": {
+					"raw": "https://localhost:44394/api/token",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44394",
+					"path": [
+						"api",
+						"token"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Authorized CALL",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImRhdGEiLCJzdWIiOiJkYXRhIiwianRpIjoiZjVjODcyNGEtODQxZS00NjhiLWFkNzQtZDVhZTE1N2E5MzVkIiwiZXhwIjoxNTM0MzkyMTQzLCJpc3MiOiJtZSIsImF1ZCI6InlvdSJ9.ooOoW63JFbafjB2ZvDs1eY8FzibfPEaDZ76oaKaV5Sc",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": "https://localhost:44394/api/values/3",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44394",
+					"path": [
+						"api",
+						"values",
+						"3"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

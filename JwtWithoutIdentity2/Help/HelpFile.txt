@@ -1,0 +1,8 @@
+﻿1) Download https://www.getpostman.com/apps and install Postman 
+2) Import Authorize.postman_collection.json
+3) Run App
+4) Run Create Token in Postman
+POST: https://localhost:44394/api/token
+Body: raw json {"Username":"username","Password":"password"}
+5) Run Authorized Call https://localhost:44394/api/values/1 
+Authorization Type: Bearer Token: Token from #4.
